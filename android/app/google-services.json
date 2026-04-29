@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390858796037",
+    "project_id": "collabapp-dddaa",
+    "storage_bucket": "collabapp-dddaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390858796037:android:09b0bf6289ecd712e4806c",
+        "android_client_info": {
+          "package_name": "com.collabapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtSQlAlkP7RcARrVFqY3pCT8DQNUNwkyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
